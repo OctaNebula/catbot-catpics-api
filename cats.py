@@ -41,6 +41,16 @@ catpack = {
         ["https://images-ext-1.discordapp.net/external/6_oJqtEd-jBtKLF375sxLnntLfv7mIgs-oSIdkjyJV8/https/media.tenor.com/yqxW6xzgR6UAAAPo/cat-jumpy.mp4", "jumpy cat", "hop hop hop"],
         ["https://media.discordapp.net/attachments/1089526167268249710/1089836622113165332/image0.jpg", "listening cat", "he's carefully monitoring everything you do, \nbe careful"],
         ["https://media.discordapp.net/attachments/229491304042725376/1074437522794479626/catsit.gif", "inspector cat", "he's looking everything you do"]
+        ["https://media.discordapp.net/attachments/937528941248393226/1080265170040934410/speed.gif", "dancing cat", "he do be vibing tho"],
+        ["https://images-ext-2.discordapp.net/external/s8sAVXLX0xBjjsweD15GLCavvJft7UyTp6Mvo7V6FK0/https/media.tenor.com/4IJyjTlpixwAAAPo/cat-cat-chewing-bottle.mp4", "bottle cat", "ajgarakkgagrkagaragbxzsvbghs"],
+        ["https://images-ext-1.discordapp.net/external/2jy6fm66Iws_7R44n4Bfv_LhPsFYe0nai96w7RBqUm4/https/media.tenor.com/ngP1tjImNRkAAAPo/wiggle-cat-meow-wiggle.mp4", "wiggle cat", "*wiggle wiggle wiggle*"],
+        ["https://media.discordapp.net/attachments/1003171984290623610/1073379192412061747/SPOILER_251AF7DB-6BAA-41DA-9D4B-1F896544E3E9.gif", "nuke cat - chain reaction edition", "look at them go boom 🍄🍄🍄🍄🍄🍄🍄"],
+        ["https://media.discordapp.net/attachments/503288006686277632/1045853714096861276/20221006_174036-1.gif", "nuke cat", "boom 🍄"],
+        ["https://images-ext-2.discordapp.net/external/F0Zj0VggSCyFtPLiFYUCOwNEbHSPMeHTW4ox7QuCdLM/https/media.tenor.com/4vCxkNY42SgAAAPo/cat-party.mp4", "party cat", "party time!!!"],
+        ["https://media.discordapp.net/attachments/1061287498405384202/1080242447663255642/speed-9-1.gif", "choke cat", "***AARRHGHAARRGH***"]
+        ["https://images-ext-1.discordapp.net/external/LC2c90T1MWrax1AyMZEEOtd4uRGsWoGCkPyyGsVAoLY/https/media.tenor.com/l3FksM0RQnoAAAPo/floppa-gargantious-floppa.mp4", "giant floppa", "ong he's so big :O"],
+        ["https://images-ext-1.discordapp.net/external/n14J6PfXgZTTMEy685K4uJ5gjhlWOsNTpGU2XUghhSY/https/media.tenor.com/arqlNu8gyJYAAAPo/cat-cat-jumping.mp4", "excited cat", "look at him jump of joy!!"],
+        
     ],
 
     "epic": [
@@ -66,7 +76,7 @@ catpack = {
     ],
 
     "legendary": [
-        ["", '', ""],
+        ["https://images-ext-1.discordapp.net/external/FCrY6YxHHZfOTCssQQ2ZlAkGXE1CYe55IE2HAYHvwtY/https/media.tenor.com/G4uy2vJMSLwAAAPo/cat-closer.mp4", '30k ping cat', "he's lagging so hard arghhhh"],
     ]
 }
 
