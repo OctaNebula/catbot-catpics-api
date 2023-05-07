@@ -33,24 +33,24 @@ catpack = {
 
     "rare": [
         ["https://media.tenor.com/ypfXYkaYMnsAAAAC/ตายแพร๊บ-cpr.gif", 'CPR Cat', "Give this ~~guy~~ err... cat a doctor license."],
-        ["https://images-ext-1.discordapp.net/external/BjnwPZDIf4wxRqtrcLDxEts_ls3WpPSfXd6h95HtxkE/https/media.tenor.com/8j_yy_fTIX0AAAPo/air-swim-cat.mp4", "Air swimming cat", "he's swimming in the air so that he doesn't get wet"],
-        ["https://images-ext-2.discordapp.net/external/Ui15vn3l5qLTjqQMQMAX3lY4GcJsqf4zfkhpNNZXe0Q/https/media.tenor.com/EDa9xr4-ZqwAAAPo/goober-kitty.mp4" "goober", "goober alert ⚠⚠⚠"]
-        ["https://images-ext-1.discordapp.net/external/COegO25fBT-eBFEBNMY7JO3SPsBDYZjv1ONoiQvwDQc/https/media.tenor.com/pONKfKjvep4AAAPo/cat-shocked.mp4", "amazed cat :O", "I wonder what he's looking at :O"],
-        ["https://images-ext-2.discordapp.net/external/rOjkQ8ahEaeLL-U0PX4iUuLzRqs1DdvhoC2Ca2j_rKk/https/media.tenor.com/1SMrekR7KgQAAAPo/cat-angry.mp4", "angruy black cat", "he's angry \n>:("],
-        ["https://images-ext-1.discordapp.net/external/wVDPIaYeFeFvGIuHzxg-43cASDRVG5W__dYLw6d7aUI/https/media.tenor.com/2v1aDCelTJgAAAPo/cat-cats.mp4", "teddy cat", "he's so soft!! :>"]
-        ["https://images-ext-1.discordapp.net/external/6_oJqtEd-jBtKLF375sxLnntLfv7mIgs-oSIdkjyJV8/https/media.tenor.com/yqxW6xzgR6UAAAPo/cat-jumpy.mp4", "jumpy cat", "hop hop hop"],
+        ["https://images-ext-1.discordapp.net/external/BjnwPZDIf4wxRqtrcLDxEts_ls3WpPSfXd6h95HtxkE/https/media.tenor.com/8j_yy_fTIX0AAAPo/air-swim-cat.gif", "Air swimming cat", "he's swimming in the air so that he doesn't get wet"],
+        ["https://images-ext-2.discordapp.net/external/Ui15vn3l5qLTjqQMQMAX3lY4GcJsqf4zfkhpNNZXe0Q/https/media.tenor.com/EDa9xr4-ZqwAAAPo/goober-kitty.gif" "goober", "goober alert ⚠⚠⚠"]
+        ["https://images-ext-1.discordapp.net/external/COegO25fBT-eBFEBNMY7JO3SPsBDYZjv1ONoiQvwDQc/https/media.tenor.com/pONKfKjvep4AAAPo/cat-shocked.gif", "amazed cat :O", "I wonder what he's looking at :O"],
+        ["https://images-ext-2.discordapp.net/external/rOjkQ8ahEaeLL-U0PX4iUuLzRqs1DdvhoC2Ca2j_rKk/https/media.tenor.com/1SMrekR7KgQAAAPo/cat-angry.gif", "angruy black cat", "he's angry \n>:("],
+        ["https://images-ext-1.discordapp.net/external/wVDPIaYeFeFvGIuHzxg-43cASDRVG5W__dYLw6d7aUI/https/media.tenor.com/2v1aDCelTJgAAAPo/cat-cats.gif", "teddy cat", "he's so soft!! :>"]
+        ["https://images-ext-1.discordapp.net/external/6_oJqtEd-jBtKLF375sxLnntLfv7mIgs-oSIdkjyJV8/https/media.tenor.com/yqxW6xzgR6UAAAPo/cat-jumpy.gif", "jumpy cat", "hop hop hop"],
         ["https://media.discordapp.net/attachments/1089526167268249710/1089836622113165332/image0.jpg", "listening cat", "he's carefully monitoring everything you do, \nbe careful"],
         ["https://media.discordapp.net/attachments/229491304042725376/1074437522794479626/catsit.gif", "inspector cat", "he's looking everything you do"]
         ["https://media.discordapp.net/attachments/937528941248393226/1080265170040934410/speed.gif", "dancing cat", "he do be vibing tho"],
-        ["https://images-ext-2.discordapp.net/external/s8sAVXLX0xBjjsweD15GLCavvJft7UyTp6Mvo7V6FK0/https/media.tenor.com/4IJyjTlpixwAAAPo/cat-cat-chewing-bottle.mp4", "bottle cat", "ajgarakkgagrkagaragbxzsvbghs"],
-        ["https://images-ext-1.discordapp.net/external/2jy6fm66Iws_7R44n4Bfv_LhPsFYe0nai96w7RBqUm4/https/media.tenor.com/ngP1tjImNRkAAAPo/wiggle-cat-meow-wiggle.mp4", "wiggle cat", "*wiggle wiggle wiggle*"],
+        ["https://images-ext-2.discordapp.net/external/s8sAVXLX0xBjjsweD15GLCavvJft7UyTp6Mvo7V6FK0/https/media.tenor.com/4IJyjTlpixwAAAPo/cat-cat-chewing-bottle.gif", "bottle cat", "ajgarakkgagrkagaragbxzsvbghs"],
+        ["https://images-ext-1.discordapp.net/external/2jy6fm66Iws_7R44n4Bfv_LhPsFYe0nai96w7RBqUm4/https/media.tenor.com/ngP1tjImNRkAAAPo/wiggle-cat-meow-wiggle.gif", "wiggle cat", "*wiggle wiggle wiggle*"],
         ["https://media.discordapp.net/attachments/1003171984290623610/1073379192412061747/SPOILER_251AF7DB-6BAA-41DA-9D4B-1F896544E3E9.gif", "nuke cat - chain reaction edition", "look at them go boom 🍄🍄🍄🍄🍄🍄🍄"],
         ["https://media.discordapp.net/attachments/503288006686277632/1045853714096861276/20221006_174036-1.gif", "nuke cat", "boom 🍄"],
-        ["https://images-ext-2.discordapp.net/external/F0Zj0VggSCyFtPLiFYUCOwNEbHSPMeHTW4ox7QuCdLM/https/media.tenor.com/4vCxkNY42SgAAAPo/cat-party.mp4", "party cat", "party time!!!"],
+        ["https://images-ext-2.discordapp.net/external/F0Zj0VggSCyFtPLiFYUCOwNEbHSPMeHTW4ox7QuCdLM/https/media.tenor.com/4vCxkNY42SgAAAPo/cat-party.gif", "party cat", "party time!!!"],
         ["https://media.discordapp.net/attachments/1061287498405384202/1080242447663255642/speed-9-1.gif", "choke cat", "***AARRHGHAARRGH***"]
-        ["https://images-ext-1.discordapp.net/external/LC2c90T1MWrax1AyMZEEOtd4uRGsWoGCkPyyGsVAoLY/https/media.tenor.com/l3FksM0RQnoAAAPo/floppa-gargantious-floppa.mp4", "giant floppa", "ong he's so big :O"],
-        ["https://images-ext-1.discordapp.net/external/n14J6PfXgZTTMEy685K4uJ5gjhlWOsNTpGU2XUghhSY/https/media.tenor.com/arqlNu8gyJYAAAPo/cat-cat-jumping.mp4", "excited cat", "look at him jump of joy!!"],
-        
+        ["https://images-ext-1.discordapp.net/external/LC2c90T1MWrax1AyMZEEOtd4uRGsWoGCkPyyGsVAoLY/https/media.tenor.com/l3FksM0RQnoAAAPo/floppa-gargantious-floppa.gif", "giant floppa", "ong he's so big :O"],
+        ["https://images-ext-1.discordapp.net/external/n14J6PfXgZTTMEy685K4uJ5gjhlWOsNTpGU2XUghhSY/https/media.tenor.com/arqlNu8gyJYAAAPo/cat-cat-jumping.gif", "excited cat", "look at him jump of joy!!"],
+
     ],
 
     "epic": [
@@ -62,7 +62,7 @@ catpack = {
         ["https://media.discordapp.net/attachments/1033857132463927327/1077446533257105528/FRM_Jc6X0AEQzQ-.gif", 'Scrolling Cat', "Scrollllllllllllllllllllllllllllllllllllllllllllllllllll"],
         ["https://media.discordapp.net/attachments/1026607313630548008/1073802380589666445/ezgif-7-042e77fcab2d.gif", 'Flappy Cat', "flwp flwp flwp"],
         ["https://media.discordapp.net/attachments/1049251991605477377/1073331684549853325/2A366F3D-A4B9-4D1D-97CB-61E341C3C463.gif", 'Shlerping cat', "slurpppp"],
-        ["https://images-ext-2.discordapp.net/external/rOjkQ8ahEaeLL-U0PX4iUuLzRqs1DdvhoC2Ca2j_rKk/https/media.tenor.com/1SMrekR7KgQAAAPo/cat-angry.mp4", 'Hapi Hapi', "Hapi Hapi"],
+        ["https://images-ext-2.discordapp.net/external/rOjkQ8ahEaeLL-U0PX4iUuLzRqs1DdvhoC2Ca2j_rKk/https/media.tenor.com/1SMrekR7KgQAAAPo/cat-angry.gif", 'Hapi Hapi', "Hapi Hapi"],
         ["https://tenor.com/view/sad-cat-sunakook-tired-exhausted-gif-24687868", 'Sitting Cat', "He's tired..."],
         ["https://media.discordapp.net/attachments/914872564147449876/1050371407097364601/14FE06B0-4528-465A-9000-78B2F69F6B5B.gif", 'Vibe Blob', "woooooooooooooooooooooooooooooooooo"],
         ["https://tenor.com/view/cat-do-not-dont-please-meme-gif-21449752", "Do not the Cat.", "Do not the Cat."],
@@ -76,7 +76,7 @@ catpack = {
     ],
 
     "legendary": [
-        ["https://images-ext-1.discordapp.net/external/FCrY6YxHHZfOTCssQQ2ZlAkGXE1CYe55IE2HAYHvwtY/https/media.tenor.com/G4uy2vJMSLwAAAPo/cat-closer.mp4", '30k ping cat', "he's lagging so hard arghhhh"],
+        ["https://images-ext-1.discordapp.net/external/FCrY6YxHHZfOTCssQQ2ZlAkGXE1CYe55IE2HAYHvwtY/https/media.tenor.com/G4uy2vJMSLwAAAPo/cat-closer.gif", '30k ping cat', "he's lagging so hard arghhhh"],
     ]
 }
 
