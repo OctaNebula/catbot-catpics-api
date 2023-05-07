@@ -32,7 +32,15 @@ catpack = {
     ],
 
     "rare": [
-        ["", '', ""],
+        ["https://media.tenor.com/ypfXYkaYMnsAAAAC/ตายแพร๊บ-cpr.gif", 'CPR Cat', "Give this ~~guy~~ err... cat a doctor license."],
+        ["https://images-ext-1.discordapp.net/external/BjnwPZDIf4wxRqtrcLDxEts_ls3WpPSfXd6h95HtxkE/https/media.tenor.com/8j_yy_fTIX0AAAPo/air-swim-cat.mp4", "Air swimming cat", "he's swimming in the air so that he doesn't get wet"],
+        ["https://images-ext-2.discordapp.net/external/Ui15vn3l5qLTjqQMQMAX3lY4GcJsqf4zfkhpNNZXe0Q/https/media.tenor.com/EDa9xr4-ZqwAAAPo/goober-kitty.mp4" "goober", "goober alert ⚠⚠⚠"]
+        ["https://images-ext-1.discordapp.net/external/COegO25fBT-eBFEBNMY7JO3SPsBDYZjv1ONoiQvwDQc/https/media.tenor.com/pONKfKjvep4AAAPo/cat-shocked.mp4", "amazed cat :O", "I wonder what he's looking at :O"],
+        ["https://images-ext-2.discordapp.net/external/rOjkQ8ahEaeLL-U0PX4iUuLzRqs1DdvhoC2Ca2j_rKk/https/media.tenor.com/1SMrekR7KgQAAAPo/cat-angry.mp4", "angruy black cat", "he's angry \n>:("],
+        ["https://images-ext-1.discordapp.net/external/wVDPIaYeFeFvGIuHzxg-43cASDRVG5W__dYLw6d7aUI/https/media.tenor.com/2v1aDCelTJgAAAPo/cat-cats.mp4", "teddy cat", "he's so soft!! :>"]
+        ["https://images-ext-1.discordapp.net/external/6_oJqtEd-jBtKLF375sxLnntLfv7mIgs-oSIdkjyJV8/https/media.tenor.com/yqxW6xzgR6UAAAPo/cat-jumpy.mp4", "jumpy cat", "hop hop hop"],
+        ["https://media.discordapp.net/attachments/1089526167268249710/1089836622113165332/image0.jpg", "listening cat", "he's carefully monitoring everything you do, \nbe careful"],
+        ["https://media.discordapp.net/attachments/229491304042725376/1074437522794479626/catsit.gif", "inspector cat", "he's looking everything you do"]
     ],
 
     "epic": [
